@@ -1,0 +1,119 @@
+/* .{
+    padding: 0px;
+    margin:0px;
+} */
+
+.ele{
+    height:800px;
+    width: 100%;
+    background-image: url(p.jpeg);
+    background-size: cover;
+    
+}
+.m{
+    text-align: center;
+    padding-top: 550px;
+    padding-left:70px;
+    font-size: 3.0rem;
+}
+
+.nav{
+    height:75px;
+    width:100%;
+    margin-top: 0px;
+    background-color: rgb(16, 109, 52);
+   position: fixed;
+    top:0px;
+}
+
+.nav li,a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    padding: 7px 20px 10px 12px;
+    /* padding-right: 10px; */
+}
+.nav ul{
+    float:right;
+}
+button{
+    width: 90px;
+    height:67px;
+    padding-top:0px;
+    background-color: rgb(216, 230, 229);
+    border-radius: 6px;
+    text-decoration: none; 
+    margin-top:2px; 
+    margin-left: 30px;
+}
+button:hover{
+    transition-duration: 1.2ms;
+    background-color: rgb(0, 255, 115);
+}
+li:hover{
+    background-color:rgb(7, 75, 33);
+    text-decoration: underline solid;
+}
+.animal{
+    height:500px;
+    width: 77%;
+    background-color: rgb(7, 75, 33);
+    font-size: 5rem;
+    display: flex;
+    align-items:center;
+    padding-left: 300px;
+    color:white;
+
+
+}
+.about {
+    height: 500px;
+    width: 77%;
+    background-color: rgb(7, 75, 33);
+    font-size: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    color: white;
+
+
+}
+.home{
+    height: 500px;
+    width: 77%;
+    background-color: rgb(7, 75, 33);
+    font-size: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    color: white;
+
+
+}
+.con{
+    height: 500px;
+    width: 77%;
+    background-color: rgb(7, 75, 33);
+    font-size: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    color: white;
+
+
+}
+.sign {
+    height: 500px;
+    width: 77%;
+    background-color: rgb(7, 75, 33);
+    font-size: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+    color: white;
+
+
+}
